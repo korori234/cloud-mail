@@ -6,12 +6,6 @@
         <a href="https://www.cloudflare.com/" target="_blank">
             <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;color=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
         </a>
-        <a href="https://hono.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&amp;labelColor=E36002&amp;color=E36002&amp;logo=hono&amp;logoColor=white" alt="Hono" />
-        </a>
-        <a href="https://vuejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&amp;labelColor=4FC08D&amp;color=4FC08D&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue" />
-        </a>
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
             <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
         </a>
