@@ -1,30 +1,28 @@
 <p align="center">
     <img src="doc/demo/logo.png" width="80px" />
     <h1 align="center">Cloud Mail</h1>
-    <p align="center">基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发 🎉</p> 
+    <p align="center"><strong>基于 Cloudflare 的一站式邮箱服务平台，支持邮件发送、附件收发</strong></p>
     <p align="center">
-        简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
-            <img src="https://img.shields.io/badge/license-MIT-green" />
-        </a>    
-        <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
-            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail" alt="releases" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/issues" >
-            <img src="https://img.shields.io/github/issues/maillab/cloud-mail" alt="issues" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/stargazers" target="_blank">
-            <img src="https://img.shields.io/github/stars/maillab/cloud-mail" alt="stargazers" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/forks" target="_blank" >
-            <img src="https://img.shields.io/github/forks/maillab/cloud-mail" alt="forks" />
+        <a href="https://www.cloudflare.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Cloudflare-online-F38020?style=flat-square&amp;labelColor=000000&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare online" />
         </a>
+        <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
+            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
+        </a>
+        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
+            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;labelColor=000000" />
+        </a>  
+    </p>
+    <p align="center" >
+        <a href="https://022335.xyz">在线演示</a> · <a href="https://docs.022335.xyz">部署文档</a> ·
+        <a align="center"><a href="README_en.md">English</a> | 简体中文</a>
     </p>
     <p align="center">
         <a href="https://trendshift.io/repositories/20459" target="_blank" >
             <img src="https://trendshift.io/api/badge/repositories/20459" alt="trendshift" >
+        </a>
+        <a href="https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41" target="_blank">
+            <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=1b1da1f9ae4c4175baa3d762b4e0ba41" alt="HelloGitHub" />
         </a>
     </p>
 </p>
@@ -36,15 +34,28 @@
 
 ## 项目展示
 
-- [在线演示](https://skymail.ink)<br>
-- [部署文档](https://doc.skymail.ink)<br>
-
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
 |-----------------------|-----------------------|
 | ![](/doc/demo/demo3.png) | ![](/doc/demo/demo4.png) |
 
 
+## 推荐项目
 
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">
+        <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="middle">
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
+    </td>
+    <td valign="middle">
+      一个自托管云存储相册应用
+    </td>
+  </tr>
+</table>
 
 ## 功能介绍
 
