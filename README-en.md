@@ -7,31 +7,21 @@
     </p>
     <p align="center">
         <a href="https://www.cloudflare.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+            <img src="https://img.shields.io/badge/Cloudflare-online-F38020?style=flat-square&amp;labelColor=000000&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare online" />
         </a>
-        <a href="https://developers.cloudflare.com/workers/" target="_blank">
-            <img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
-        </a>
-        <br />
-        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
-            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
-        </a>    
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
-            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square" alt="releases" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/issues" >
-            <img src="https://img.shields.io/github/issues/maillab/cloud-mail?style=flat-square" alt="issues" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/stargazers" target="_blank">
-            <img src="https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square" alt="stargazers" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/forks" target="_blank" >
-            <img src="https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square" alt="forks" />
+            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
+        </a>
+        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
+            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;labelColor=000000" />
         </a>
     </p>
     <p align="center">
         <a href="https://trendshift.io/repositories/20459" target="_blank" >
             <img src="https://trendshift.io/api/badge/repositories/20459" alt="trendshift" >
+        </a>
+        <a href="https://hellogithub.com/repository/1b1da1f9ae4c4175baa3d762b4e0ba41" target="_blank">
+            <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=1b1da1f9ae4c4175baa3d762b4e0ba41" alt="HelloGitHub" />
         </a>
     </p>
 </p>
@@ -47,6 +37,24 @@ With only one domain, you can create multiple different email addresses, similar
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
 |--------------------------|--------------------------|
 | ![](/doc/demo/demo3.png) | ![](/doc/demo/demo4.png) |
+
+## Recommended Project
+
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">
+        <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="middle">
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
+    </td>
+    <td valign="middle">
+      A self-hosted cloud storage photo album app
+    </td>
+  </tr>
+</table>
 
 ## Features
 
