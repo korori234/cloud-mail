@@ -27,7 +27,7 @@
       </div>
     </div>
 
-    <div ref="scroll" class="scroll">
+    <div ref="scroll" class="scroll" :class="{ 'macos-scroll': isMacOS }">
       <UseVirtualList ref="scrollbarRef"
                         @scroll="onScroll"
                         :list="list"
@@ -316,6 +316,8 @@ const firstLoad = ref(true)
 let scrollTop = 0
 const latestEmail = ref(null)
 const scrollbarRef = ref(null)
+// iPad can report a Mac platform when requesting desktop websites.
+const isMacOS = /Mac/.test(navigator.platform) && navigator.maxTouchPoints <= 1
 let reqLock = false
 let isMobile = ref(innerWidth < 1367)
 let skeletonRows = 0
@@ -918,6 +920,12 @@ function loadData() {
 
   .virtual {
     will-change: scroll-position;
+  }
+
+  @media (min-width: 1367px) {
+    &.macos-scroll :deep(.virtual > div) {
+      padding-right: 15px;
+    }
   }
 
   .empty {
