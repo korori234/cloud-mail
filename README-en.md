@@ -3,11 +3,14 @@
     <h1 align="center">Cloud Mail</h1>
     <p align="center">A simple, responsive email service designed to run on Cloudflare Workers 🎉</p> 
     <p align="center">
-       <a href="/README.md" style="margin-left: 5px">简体中文</a> | English 
-    </p>
-    <p align="center">
         <a href="https://www.cloudflare.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Cloudflare-online-F38020?style=flat-square&amp;labelColor=000000&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare online" />
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;color=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+        </a>
+        <a href="https://hono.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&amp;labelColor=E36002&amp;color=E36002&amp;logo=hono&amp;logoColor=white" alt="Hono" />
+        </a>
+        <a href="https://vuejs.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&amp;labelColor=4FC08D&amp;color=4FC08D&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue" />
         </a>
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
             <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
@@ -15,6 +18,10 @@
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
             <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;labelColor=000000" />
         </a>
+    </p>
+    <p align="center">
+        <a href="https://skymail.ink">Live Demo</a> · <a href="https://docs.skymail.ink/en/">Deployment Guide</a> ·
+        <a href="/README.md">简体中文</a> | English
     </p>
     <p align="center">
         <a href="https://trendshift.io/repositories/20459" target="_blank" >
@@ -29,10 +36,6 @@
 ## Description
 With only one domain, you can create multiple different email addresses, similar to major email platforms. This project can be deployed on Cloudflare Workers to reduce server costs and build your own email service.
 ## Project Showcase
-
-- [Live Demo](https://skymail.ink)<br>
-- [Deployment Guide](https://doc.skymail.ink/en/)<br>
-
 
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
 |--------------------------|--------------------------|

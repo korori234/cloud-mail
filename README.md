@@ -4,7 +4,13 @@
     <p align="center"><strong>基于 Cloudflare 的一站式邮箱服务平台，支持邮件发送、附件收发</strong></p>
     <p align="center">
         <a href="https://www.cloudflare.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Cloudflare-online-F38020?style=flat-square&amp;labelColor=000000&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare online" />
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;color=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+        </a>
+        <a href="https://hono.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&amp;labelColor=E36002&amp;color=E36002&amp;logo=hono&amp;logoColor=white" alt="Hono" />
+        </a>
+        <a href="https://vuejs.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&amp;labelColor=4FC08D&amp;color=4FC08D&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue" />
         </a>
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
             <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
@@ -14,7 +20,7 @@
         </a>  
     </p>
     <p align="center" >
-        <a href="https://022335.xyz">在线演示</a> · <a href="https://docs.022335.xyz">部署文档</a> ·
+        <a href="https://skymail.ink">在线演示</a> · <a href="https://docs.skymail.ink">部署文档</a> ·
         <a align="center"><a href="README_en.md">English</a> | 简体中文</a>
     </p>
     <p align="center">
