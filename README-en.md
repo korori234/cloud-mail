@@ -4,13 +4,13 @@
     <p align="center">An all-in-one email service platform powered by Cloudflare</p>
     <p align="center">
         <a href="https://www.cloudflare.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;labelColor=F38020&amp;color=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?labelColor=F38020&amp;color=F38020&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
         </a>
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
-            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square&amp;labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
+            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?labelColor=000000&amp;logo=github&amp;logoColor=white" alt="releases" />
         </a>
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
-            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;labelColor=000000" />
+            <img src="https://img.shields.io/badge/license-MIT-green?labelColor=000000" />
         </a>
     </p>
     <p align="center">
