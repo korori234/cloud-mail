@@ -32,6 +32,24 @@
 
 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers ，降低服务器成本，搭建自己的邮箱服务
 
+## 推荐项目
+
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">
+        <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="middle">
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
+    </td>
+    <td valign="middle">
+      一个自托管云存储相册应用
+    </td>
+  </tr>
+</table>
+
 ## 项目展示
 
 | ![](/doc/demo/demo.jpg)  | ![](/doc/demo/demo1.jpg) |
